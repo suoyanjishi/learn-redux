@@ -1,0 +1,23 @@
+{
+  "name": "learn-redux",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suoyanjishi/learn-redux.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suoyanjishi/learn-redux/issues"
+  },
+  "homepage": "https://github.com/suoyanjishi/learn-redux#readme",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-redux": "^7.2.4"
+  }
+}
